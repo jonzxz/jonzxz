@@ -8,9 +8,9 @@ find out more about me on my [site](https://jonathankerk.com)!
 
 if you are here for numbers, 
 
-[![jonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonzxz&show_icons=true&theme=dracula)](https://github.com/jonzxz)
+[![jonny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonzxz&show_icons=true&theme=dracula&rank_icon=github&custom_title=jonny's%20stats)](https://github.com/jonzxz)
 
-[![jonny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonzxz&hide=html,css&theme=dracula)](https://github.com/jonzxz)
+[![jonny's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jonzxz&hide=html,css&theme=dracula&layout=normal)](https://github.com/jonzxz)
 
 > also, some of my gists i use for my productivity and ricing journey on arch
 
